@@ -1,0 +1,2158 @@
+[
+    {
+        "id": "q-1",
+        "question": "The greater wing of sphenoid bone contain the optic canal that transmits the optic nerve and",
+        "answer": "ophthalmic artery",
+        "choices": [
+            "middle meningeal artery",
+            "ophthalmic vein",
+            "mandibular nerve",
+            "ophthalmic artery"
+        ]
+    },
+    {
+        "id": "q-2",
+        "question": "Total body fluid volume is _____ of body weight",
+        "answer": "60%",
+        "choices": [
+            "20%",
+            "40%",
+            "80%",
+            "60%"
+        ]
+    },
+    {
+        "id": "q-3",
+        "question": "Normal glomerular filtration rate",
+        "answer": "125 ml/min",
+        "choices": [
+            "75 ml/min",
+            "120 ml/ min",
+            "150 ml/min",
+            "125 ml/min"
+        ]
+    },
+    {
+        "id": "q-4",
+        "question": "What protein is crucial in the absorption of vitamin B12?",
+        "answer": "intrinsic factor",
+        "choices": [
+            "gastrin",
+            "amylase",
+            "pepsin",
+            "intrinsic factor"
+        ]
+    },
+    {
+        "id": "q-5",
+        "question": "A fracture through the angle of the mandible can result in an upward displacement of the proximal fragment. Which of the following groups of muscles produces this movement?",
+        "answer": "masseter, temporal, medial pterygoid",
+        "choices": [
+            "digastric, geniohyoid",
+            "digastric, geniohyoid",
+            "masseter, temporal, lateral pterygoid",
+            "masseter, temporal, medial pterygoid"
+        ]
+    },
+    {
+        "id": "q-6",
+        "question": "Mandible develops from what branchial arch?",
+        "answer": "1st",
+        "choices": [
+            "2nd",
+            "3rd",
+            "4th",
+            "1st"
+        ]
+    },
+    {
+        "id": "q-7",
+        "question": "Which of these is NOT a lymphatic organ?",
+        "answer": "liver",
+        "choices": [
+            "spleen",
+            "thymus",
+            "tonsil",
+            "liver"
+        ]
+    },
+    {
+        "id": "q-8",
+        "question": "Average daily urine output",
+        "answer": "1.5 L",
+        "choices": [
+            "0.5 L",
+            "2.5 L",
+            "3.5 L",
+            "1.5 L"
+        ]
+    },
+    {
+        "id": "q-9",
+        "question": "Which of these muscles of mastication is attached to the temporomandibular joint capsules?",
+        "answer": "external pterygoid",
+        "choices": [
+            "internal pterygoid",
+            "masseter",
+            "temporalis",
+            "external pterygoid"
+        ]
+    },
+    {
+        "id": "q-10",
+        "question": "During respiration, carbon dioxide and oxygen exchanged at the junction of the blood and alveolar spaces and the junction of the blood and tissue. The actual diffusion of the gases is primarily controlled by the ________",
+        "answer": "differentials in partial pressure of the gases",
+        "choices": [
+            "bicarbonate content of the blood",
+            "atmospheric pressure",
+            "elasticity of blood capillaries",
+            "differentials in partial pressure of the gases"
+        ]
+    },
+    {
+        "id": "q-11",
+        "question": "Which of the following is NOT a function of the kidney?",
+        "answer": "production of vitamin B complex",
+        "choices": [
+            "blood pressure regulation",
+            "regulate acid base balance",
+            "excretion of waste products",
+            "production of vitamin B complex"
+        ]
+    },
+    {
+        "id": "q-12",
+        "question": "After the facial nerve exits through the stylomastoid foramen, it ramifies in the substance of the parotid gland in 5 branches. All are correctly listed below EXCEPT",
+        "answer": "auricular",
+        "choices": [
+            "zygomatic",
+            "cervical",
+            "temporal",
+            "auricular"
+        ]
+    },
+    {
+        "id": "q-13",
+        "question": "Which cell lines the lumen of the seminiferous tubules and secretes hormones, androgen-binding proteins and other proteins that facilitate spermatogenesis?",
+        "answer": "sertoli cells",
+        "choices": [
+            "interstitial cells of Leydig",
+            "principal cells",
+            "clara cells",
+            "sertoli cells"
+        ]
+    },
+    {
+        "id": "q-14",
+        "question": "The following bones compose the base of the cranium EXCEPT",
+        "answer": "mandible",
+        "choices": [
+            "fronta",
+            "occipital",
+            "sphenoid",
+            "mandible"
+        ]
+    },
+    {
+        "id": "q-15",
+        "question": "Class of antibody is the first antibody to appear in the circulation after antigen stimulation",
+        "answer": "IgM",
+        "choices": [
+            "IgA",
+            "IgG",
+            "IgD",
+            "IgM"
+        ]
+    },
+    {
+        "id": "q-16",
+        "question": "The following statements are TRUE except",
+        "answer": "the mandibular lateral incisor is bilaterally symmetrical, like the central incisor",
+        "choices": [
+            "the mandibular lateral incisor is larger mesiodistally compared to the mandibular central incisor",
+            "the cingulum of the mandibular lateral incisor is slightly distal to the center",
+            "lateral incisors have the distoincisal angles more rounded than the mesioincisal angles",
+            "the mandibular lateral incisor is bilaterally symmetrical, like the central incisor"
+        ]
+    },
+    {
+        "id": "q-17",
+        "question": "Part of the blood lacking fibrinogen and clotting factors",
+        "answer": "serum",
+        "choices": [
+            "transudate",
+            "exudate",
+            "plasma",
+            "serum"
+        ]
+    },
+    {
+        "id": "q-18",
+        "question": "GnRH is produced by",
+        "answer": "hypothalamus",
+        "choices": [
+            "pituitary gland",
+            "adrenal gland",
+            "thyroid gland",
+            "hypothalamus"
+        ]
+    },
+    {
+        "id": "q-19",
+        "question": "Paralysis of the upper eyelid is due to damage of what cranial nerve",
+        "answer": "CN 3",
+        "choices": [
+            "CN 4",
+            "CN 6",
+            "CN 7",
+            "CN 3"
+        ]
+    },
+    {
+        "id": "q-20",
+        "question": "All-or-none phenomenon refers to",
+        "answer": "action potential",
+        "choices": [
+            "strength of muscle contraction",
+            "resting potential",
+            "excitatory postsynaptic potential",
+            "action potential"
+        ]
+    },
+    {
+        "id": "q-21",
+        "question": "During pregnancy and lactation, the breast will undergo...",
+        "answer": "Hyperplasia",
+        "choices": [
+            "Hypertrophy",
+            "Metaplasia",
+            "Hyperplasia and hypertrophy",
+            "Hyperplasia"
+        ]
+    },
+    {
+        "id": "q-22",
+        "question": "The reversible change or transformation of one type of tissue into another type of tissue (for example from columnar epithelium to aquamous epithelium) in response to stimuli, like chronic irritation, inflammation or infection.",
+        "answer": "Metaplasia",
+        "choices": [
+            "Hyperplasia",
+            "Atrophy",
+            "Hypertrophy",
+            "Metaplasia"
+        ]
+    },
+    {
+        "id": "q-23",
+        "question": "The skeletal muscles during exercise will undergo....",
+        "answer": "Hypertrophy",
+        "choices": [
+            "Metaplasia",
+            "Atrophy",
+            "Hyperplasia",
+            "Hypertrophy"
+        ]
+    },
+    {
+        "id": "q-24",
+        "question": "A patient came in with submandibular mass. It was painful and appear swollen. Excision biopsy was done and on cut section, it appeared to be a lymph node that has some kind of cheese-like material in it. After processing of this tissue, the microscopic features will show....",
+        "answer": "Caseous necrosis",
+        "choices": [
+            "Coagulative necrosis",
+            "Fibrinoid necrosis",
+            "Gangrenous necrosis",
+            "Caseous necrosis"
+        ]
+    },
+    {
+        "id": "q-25",
+        "question": "A patient died of herat failure. When autopsy was done, the heart was revealed to be covered in with red-brown granular material. Microsections showed cardiac tissue with numerous fibrin deposits admixed with inflamatory cells and red blood cells. This morphologic pattern of acute inflammatio n is called..",
+        "answer": "Chronic granulomatons inflammation",
+        "choices": [
+            "Supporative or purulent inflammation",
+            "Sercus inflammation",
+            "Fibrinous inflammation",
+            "Chronic granulomatons inflammation"
+        ]
+    },
+    {
+        "id": "q-26",
+        "question": "Which of the following could lead to acute tubular necrosis that could eventually lead to renal atrophy?",
+        "answer": "Hypoxia",
+        "choices": [
+            "Ischemia",
+            "Cholesterol plaques in the arteries",
+            "All are correct",
+            "Hypoxia"
+        ]
+    },
+    {
+        "id": "q-27",
+        "question": "A patient was seen unconscious in his house. He had stuning speech and could not move his left side. There was decreased sensation on his right side. The patient was admitted but after a few dayss, he passed away. If the brain of this patient was to be examined, it would show...",
+        "answer": "Coagulative necrosis",
+        "choices": [
+            "Fibrinoid necrosis",
+            "Gangrenous necrosis",
+            "Liquefacative necrosis",
+            "Coagulative necrosis"
+        ]
+    },
+    {
+        "id": "q-28",
+        "question": "Chronic exposure to environment pollutants and smoking could lead to accumulation of carbon dust particles in the lungs known as...",
+        "answer": "Anthracosis",
+        "choices": [
+            "calcifications",
+            "Hemosiderous",
+            "cholestesicrolosis",
+            "Anthracosis"
+        ]
+    },
+    {
+        "id": "q-29",
+        "question": "The wear and tear pigment is called..",
+        "answer": "Lipofusein",
+        "choices": [
+            "Anthracosis",
+            "Hemodideria",
+            "Cholesterolosis",
+            "Lipofusein"
+        ]
+    },
+    {
+        "id": "q-30",
+        "question": "The following can lead to atrophy,EXCEPT",
+        "answer": "Anorexia",
+        "choices": [
+            "Hypoxia",
+            "Cyshing syndrome",
+            "Ischemia",
+            "Anorexia"
+        ]
+    },
+    {
+        "id": "q-31",
+        "question": "The followinf are correct regarding metastatic calcification, EXCEPT...",
+        "answer": "Present in the areas where there is tissue",
+        "choices": [
+            "It occurs in patients with hypercalcemia",
+            "Tissues are viable",
+            "All",
+            "Present in the areas where there is tissue"
+        ]
+    },
+    {
+        "id": "q-32",
+        "question": "Liver biopsy showed hepatocytes that are infiltrated by numerous brown granules that stained blue after Perl stain. These granules are...",
+        "answer": "Hemosiderin",
+        "choices": [
+            "Cholesterol",
+            "Fat",
+            "Bilirubin",
+            "Hemosiderin"
+        ]
+    },
+    {
+        "id": "q-33",
+        "question": "True about apoptosis, EXCEPT..",
+        "answer": "There is frequent adustment inflammation",
+        "choices": [
+            "Cell membrane remains intact",
+            "Can be physiologic or pathologic",
+            "The cell shrinks",
+            "There is frequent adustment inflammation"
+        ]
+    },
+    {
+        "id": "q-34",
+        "question": "The following are hallmarks of reversible cellular injury. EXCEPT..",
+        "answer": "Apoptosis is always pathological",
+        "choices": [
+            "Necrosis is always patholigical",
+            "Cell membrane damage occurs",
+            "Nuclear dissolations follows",
+            "Apoptosis is always pathological"
+        ]
+    },
+    {
+        "id": "q-35",
+        "question": "The following are true regarding cellular adaptation, EXCEPT",
+        "answer": "Metaplasia is the irriversible change to chronic stimulus, like chronic irritation",
+        "choices": [
+            "It is a reversible response to stimulus",
+            "Hypoxia to the brain can lead to liquefactive necrosis",
+            "Alzheimer's disease leads to atrophy of brain",
+            "Metaplasia is the irriversible change to chronic stimulus, like chronic irritation"
+        ]
+    },
+    {
+        "id": "q-36",
+        "question": "The following are correct regarding apoptosis, EXCEPT",
+        "answer": "There is frequent adjcacent inflammation",
+        "choices": [
+            "The cell shrinks",
+            "It can be physiologic",
+            "The nucleus undergoes condensation",
+            "There is frequent adjcacent inflammation"
+        ]
+    },
+    {
+        "id": "q-37",
+        "question": "You accidentally bumped your head while picking a pencil you dropped on the floor. You hit your head so hard that you develope a swelling at the area of injury. This is ",
+        "answer": "Tumor",
+        "choices": [
+            "Rubor",
+            "Calor",
+            "Dolor",
+            "Tumor"
+        ]
+    },
+    {
+        "id": "q-38",
+        "question": "The calor in acute inflammation is secondary to ...",
+        "answer": "Increase in blood flow and Vasolidilations",
+        "choices": [
+            "Increased in blood flow",
+            "Vasodilation",
+            "Neither of the other choices",
+            "Increase in blood flow and Vasolidilations"
+        ]
+    },
+    {
+        "id": "q-39",
+        "question": "The following are cell- derived mediators of inflammation, EXCEPT...",
+        "answer": "None of the other choices",
+        "choices": [
+            "Histamine",
+            "Leukotriens",
+            "Serotonin",
+            "None of the other choices"
+        ]
+    },
+    {
+        "id": "q-40",
+        "question": "The microscopic feature of the evidence that there is an attempt at the healing during chronic inflammation is ...",
+        "answer": "Vascular congestion and Fibrosis",
+        "choices": [
+            "Vascular congestion",
+            "Fibrosis",
+            "None of other choices",
+            "Vascular congestion and Fibrosis"
+        ]
+    },
+    {
+        "id": "q-41",
+        "question": "Histamine can be secreted by",
+        "answer": "None of the other choices",
+        "choices": [
+            "Lymphocytes",
+            "Neutrophilis",
+            "Both, Lymphocytes and Neutrophilis",
+            "None of the other choices"
+        ]
+    },
+    {
+        "id": "q-42",
+        "question": "These eukacytes are capable of phagocytosis",
+        "answer": "Monocytes and Neutrophils",
+        "choices": [
+            "Monocytes",
+            "Neutrophils",
+            "None of the other choices",
+            "Monocytes and Neutrophils"
+        ]
+    },
+    {
+        "id": "q-43",
+        "question": "the following are microscopic features of granulation tissue EXCEPT",
+        "answer": "None of the other choices",
+        "choices": [
+            "Angiogenesis",
+            "Collagen formation",
+            "Both, angiogenesis and Collage formation",
+            "None of the other choices"
+        ]
+    },
+    {
+        "id": "q-44",
+        "question": "This cells synthesize and producecollagen",
+        "answer": "Fibroblasts",
+        "choices": [
+            "Plasma cells",
+            "Both fibroblasts and plasma cells are correct",
+            "None of the other choices are correct",
+            "Fibroblasts"
+        ]
+    },
+    {
+        "id": "q-45",
+        "question": "These are the macrophages of the bone",
+        "answer": "Osteoclasts",
+        "choices": [
+            "Osteoblasts",
+            "Osteocytes",
+            "None of the choices",
+            "Osteoclasts"
+        ]
+    },
+    {
+        "id": "q-46",
+        "question": "This occurs when there is not enough granulation tissue formation and connective tissue disposition",
+        "answer": "None of the other choices",
+        "choices": [
+            "Wound dehiscence",
+            "Kelod",
+            "Both, Wound dehiscence and Keloid are correct",
+            "None of the other choices"
+        ]
+    },
+    {
+        "id": "q-47",
+        "question": "Severe burn injuries could lead to this complication secondary to excessive druring wound healing",
+        "answer": "Hypertropic scar",
+        "choices": [
+            "Keloid",
+            "both Hypertropic and scar are correct",
+            "None of the other choices are correct",
+            "Hypertropic scar"
+        ]
+    },
+    {
+        "id": "q-48",
+        "question": "Too much collagen disposition could lead to ...",
+        "answer": "Both, hypertrophic scar and Keloid",
+        "choices": [
+            "hypertropic scar",
+            "Keloid",
+            "None of the other choices are correct",
+            "Both, hypertrophic scar and Keloid"
+        ]
+    },
+    {
+        "id": "q-49",
+        "question": "The following are required for tissue repair, EXCEPT",
+        "answer": "None of the other choices are correct",
+        "choices": [
+            "Formation of new blood vessels ",
+            "Connective tissue deposition",
+            "Both, formation of new blood vessels and connective tissue deposition, are correct",
+            "None of the other choices are correct"
+        ]
+    },
+    {
+        "id": "q-50",
+        "question": "A man was found unconscious with zero vital signs, After several attempts at CPR, he was finally pronounced deceased. Autpsy revealed that he suffered from a massive myocardial infarction. Which category of shock did thid man suffer from.",
+        "answer": "Cardiogenic",
+        "choices": [
+            "Anaphylactic",
+            "histophatic",
+            "cytologic",
+            "Cardiogenic"
+        ]
+    },
+    {
+        "id": "q-51",
+        "question": "Sputum examination revealed positive for AFB(acid-fast bacilli) and TB culture was positive for growth. If a lung biopsy will be done, which morphologic features will lbe seen?",
+        "answer": "All of the choices are correct",
+        "choices": [
+            "Langhan giant cells",
+            "caseous necrosis",
+            "Collar  of lymphocytes",
+            "All of the choices are correct"
+        ]
+    },
+    {
+        "id": "q-52",
+        "question": "\"Microsections shoes a liver tissue exhibiting fatty change as well as acute infalmmation . In some areas numerous hemosiderin granules are seen, This liver tissue was sent to the ...",
+        "answer": "Histopath section",
+        "choices": [
+            "Cytology section",
+            "Microbiology section",
+            "hematology section",
+            "Histopath section"
+        ]
+    },
+    {
+        "id": "q-53",
+        "question": "A transudate can occur due to the following EXCEPT",
+        "answer": "When you have cardiac failure or hepatic failure",
+        "choices": [
+            "When ederna fluid accumulates cavity",
+            "When plasma albunin is low",
+            "When hydrostatic pressure is elevated",
+            "When you have cardiac failure or hepatic failure"
+        ]
+    },
+    {
+        "id": "q-54",
+        "question": "Medial calcific sclerosis or Monckerberg sclerosis is...",
+        "answer": "Both, An example of dystrophic calcification and Seen in the tunics media of areteries, are correct.",
+        "choices": [
+            "An example of dystrophic calcification",
+            "Seen in the tunica media of arteries",
+            "Is a form metastatic calcification",
+            "Both, An example of dystrophic calcification and Seen in the tunics media of areteries, are correct."
+        ]
+    },
+    {
+        "id": "q-55",
+        "question": "Bleeding time, clotting time and platelet counts are done in this section of  the clinical laboratory",
+        "answer": "Hematology",
+        "choices": [
+            "Microscopy",
+            "Microibiology",
+            "Histopathology",
+            "Hematology"
+        ]
+    },
+    {
+        "id": "q-56",
+        "question": "Wound dehiscence is due to ....",
+        "answer": "None of the other choices are correct",
+        "choices": [
+            "Excessive connectivity tissue deposition",
+            "Excessive granulation tissue formation",
+            "Both, Excessive connectivity tission deposition and excessive granulation tissue formation, are correct.",
+            "None of the other choices are correct"
+        ]
+    },
+    {
+        "id": "q-57",
+        "question": "Step number 3 in sequence of movements by neurophils during acute inflammation is.....",
+        "answer": "Adhesion",
+        "choices": [
+            "Rolling",
+            "Chomotaxis",
+            "Diapedesis",
+            "Adhesion"
+        ]
+    },
+    {
+        "id": "q-58",
+        "question": "Acute pancreatic could lead to ....",
+        "answer": "Fat necrosis",
+        "choices": [
+            "Fibrinoid necrosis ",
+            "Coagulative necrosis",
+            "gangrenous necrosis",
+            "Fat necrosis"
+        ]
+    },
+    {
+        "id": "q-59",
+        "question": "The following are correct regarding coaglulative necrosis, EXCEPT",
+        "answer": "It affects orgarns like the brain, heart, kidneys and spleen",
+        "choices": [
+            "It is the predominant histologic feature in white or pale infarcts",
+            "Hypoxia is one major cause",
+            "It is usually a result of arterial obstructionm",
+            "It affects orgarns like the brain, heart, kidneys and spleen"
+        ]
+    },
+    {
+        "id": "q-60",
+        "question": "Mutations in the gene that encodes for leptin leads to ....",
+        "answer": "Obesity",
+        "choices": [
+            "Vitamin B12 deficiency",
+            "Ricketts",
+            "Osteomalacia",
+            "Obesity"
+        ]
+    },
+    {
+        "id": "q-61",
+        "question": "A first born infant with Rh positive father came from a mothe with Rh negative blood. Which of the following will occur?",
+        "answer": "None of the othe choices is correct",
+        "choices": [
+            "The infant will be still born",
+            "The mother will not develop antibodies against the Rh postive erythiocytes of the the baby.",
+            "Both, The infant eill be still born and the mother will not develop agains te Rh positive erythocytes of the baby",
+            "None of the othe choices is correct"
+        ]
+    },
+    {
+        "id": "q-62",
+        "question": "Once a mother who is Rh negative has been sensitized after having been pregnant with a baby that is Rh positive, her antibodies will opsonize the second babt's erythtocyes if the second baby is also Rh positive, by crossing the placenta. Which antibofy consists of 5 5 antibody units making it too large to cross the placenta , thus is not the cause of Rh incompatibility",
+        "answer": "IgG",
+        "choices": [
+            "IgE",
+            "IgM",
+            "All the other choices are correct",
+            "IgG"
+        ]
+    },
+    {
+        "id": "q-63",
+        "question": "Which of the following distinguish left sided failure from right-sided failure",
+        "answer": "Edema ",
+        "choices": [
+            "Pulmonary congestion",
+            "Hypertension",
+            "Hepatomegaly",
+            "Edema "
+        ]
+    },
+    {
+        "id": "q-64",
+        "question": "There are now five mosquito-borne diseases that have become a global concern. If the patient gave birth to an infant that has microcephaly, the mother may have been infected by anorganism that is carried by which mosquito?",
+        "answer": "Aedes",
+        "choices": [
+            "Anopheles",
+            "Both, aedes and anopheles, are correct",
+            "None of the choice are correct",
+            "Aedes"
+        ]
+    },
+    {
+        "id": "q-65",
+        "question": "Malnourished child with ederma all over",
+        "answer": "Kwashiorkor",
+        "choices": [
+            "rickets",
+            "Marasmus",
+            "Osteonvalacia",
+            "Kwashiorkor"
+        ]
+    },
+    {
+        "id": "q-66",
+        "question": "All of the following can contribute to the delay in wound healing, EXCEPT",
+        "answer": "Vitamin C",
+        "choices": [
+            "Smokig",
+            "Protein deficiency",
+            "Hypertension",
+            "Vitamin C"
+        ]
+    },
+    {
+        "id": "q-67",
+        "question": "What is the most common tumor marker for hepatocellular carcinoma?",
+        "answer": "AFP",
+        "choices": [
+            "CEA",
+            "HCG",
+            "PSA",
+            "AFP"
+        ]
+    },
+    {
+        "id": "q-68",
+        "question": "A patient was admitted due to heart failure . Physical examination revealed a perforated septum and dilated pupils. He is still very agitated. Echocardiogram revealed an enlarged heart. A cardiomyopathy is suspected. Which of the following could it be?",
+        "answer": "Dilated",
+        "choices": [
+            "Arythmogenic",
+            "Hypertrophic",
+            "Restrictive",
+            "Dilated"
+        ]
+    },
+    {
+        "id": "q-69",
+        "question": "A 6-year old girl is brought to your pediatrics office by her parents, who are concerned that their daughter seems extremely clumsy. They report that she often falling down while walking and they have noticed that any minor trauma can lead to large gaping cuts or significant bruising. When you examine the child you notice that since has hypermobile joints and thin, hyperextensible skin. The father says that he suffers from a genetic disorder onvolving faulty collagen synthesis . Your diagnosis.",
+        "answer": "Marfan syndrome",
+        "choices": [
+            "Ehlers-Danlos syndrome",
+            "Cystic fibrosis",
+            "Hemphilia",
+            "Marfan syndrome"
+        ]
+    },
+    {
+        "id": "q-70",
+        "question": "A mutation on the gene that encodes for the fibrillin protein is an example of a/an .... disorder.",
+        "answer": "Autosomal domimant",
+        "choices": [
+            "x-linked dominant",
+            "Autosomal recessive",
+            "x-linked recessive",
+            "Autosomal domimant"
+        ]
+    },
+    {
+        "id": "q-71",
+        "question": "Diagnose this case: A 60 year old man presents to the emergency room complaining of 2 hours of crushing substernal chest pain that radiates to his left shoulder and jaw. He appears fatigued and is breathing heavily and sweating profusely ECG show ST-elevation",
+        "answer": "Myocardial infarction",
+        "choices": [
+            "Tuberculosis",
+            "Cystic fibrosis",
+            "Asthma",
+            "Myocardial infarction"
+        ]
+    },
+    {
+        "id": "q-72",
+        "question": "Myocardial infarction will lead to.....",
+        "answer": "Coagulative necrosis",
+        "choices": [
+            "Caseous necrosis",
+            "Gangrnous Necrosis",
+            "Liquefactive necrosis",
+            "Coagulative necrosis"
+        ]
+    },
+    {
+        "id": "q-73",
+        "question": "A 32 year old african american woman presents to your clinic complaining of arthritic symptoms. She tells you that she suffered from bouts of arthitis, primarily affecting her hips, wrists, and knees, off and on for the past year. After taking complete history, you learn that she gradually lost hair from her scalp over the past year, has lost 20 pounds over the same time period, and her episodic fevers and oral ulcers. She denies any change in bowel or urinary function. On the physical examination, you notice that a positive ANA and anti-ds DNA antibodies to confirm your suspected diagnosis. And that is...",
+        "answer": "Systemic lupus erythematosus",
+        "choices": [
+            "Graves disease",
+            "Sjogren syndrome",
+            "Myasthemia gravis",
+            "Systemic lupus erythematosus"
+        ]
+    },
+    {
+        "id": "q-74",
+        "question": " A butterfly rash or malar rash positive for ANAs with photosensitivity and hematologic problems could be due to an autoimmune disease that is an example of a _________disorder.",
+        "answer": "Type IV HPS",
+        "choices": [
+            "Type I HPS",
+            "Type II HPS",
+            "Type III HPS",
+            "Type IV HPS"
+        ]
+    },
+    {
+        "id": "q-75",
+        "question": "Patiens with SLE will typically have ____ in their blood vessels.",
+        "answer": "Fibronoid necrosis",
+        "choices": [
+            "gangrempis necrosis",
+            "coagulative necrosis",
+            "caseous necrosis",
+            "Fibronoid necrosis"
+        ]
+    },
+    {
+        "id": "q-76",
+        "question": "Hyperactivity airways leading to episodic reversible bronchoconstriction. Which of the following is correct regarding this description.",
+        "answer": "Both, It is charcteristic of broncial asthma and It is IgM mediated",
+        "choices": [
+            "This is a type I HPS",
+            "It is charcteristic of broncial asthma",
+            "It is IgM mediated",
+            "Both, It is charcteristic of broncial asthma and It is IgM mediated"
+        ]
+    },
+    {
+        "id": "q-77",
+        "question": "A 6-month olf lmale infant is brought to the emergency room by his mother , who notes that he appears to be having trouble breathing. Upon speaking with the mother, you discover that she suffered from rubella during her pregnancy and that the child has not been seen by a doctor since birth. On the physical examination, a continuous \"machine-like\" murmur is heard and you note signs of pulmonary congestion. Your diagnosis is .........",
+        "answer": "PDA",
+        "choices": [
+            "TOF",
+            "VSD",
+            "ASD",
+            "PDA"
+        ]
+    },
+    {
+        "id": "q-78",
+        "question": "A newborn boy, born to a diabetic mother, is found to be blue. Physical examination reveals a holosystolic murmur, consistent with presence of a large VSD. A CXR demonstrates a boot-shaped heart. As you schedule several cardiac tests for a baby , you suspect that the child will most certainly need surgery to corret the myriad of defects associated with his condition. Your diagnosis is ........",
+        "answer": "TOF",
+        "choices": [
+            "PDA ",
+            "ASD",
+            "VSD",
+            "TOF"
+        ]
+    },
+    {
+        "id": "q-79",
+        "question": "Which of the following is the only one that is correct?",
+        "answer": "NEC - TNF",
+        "choices": [
+            "NEC - methaplasia",
+            "NEC - atrophy",
+            "NEC - hypertrophy",
+            "NEC - TNF"
+        ]
+    },
+    {
+        "id": "q-80",
+        "question": "Myasgravis is an example of .......",
+        "answer": "type II HPS",
+        "choices": [
+            "Type I HPS",
+            "type IIH HPS",
+            "type IV HPS",
+            "type II HPS"
+        ]
+    },
+    {
+        "id": "q-81",
+        "question": "Asbestos can lead to.....",
+        "answer": "Lung cancer",
+        "choices": [
+            "Leukemia",
+            "Angiosarcoma",
+            "Hephatocellelular carcinoma",
+            "Lung cancer"
+        ]
+    },
+    {
+        "id": "q-82",
+        "question": "The following are benign tumor EXCEPT",
+        "answer": "Lymphoma",
+        "choices": [
+            "Lipoma",
+            "Fibroma",
+            "Neuroma",
+            "Lymphoma"
+        ]
+    },
+    {
+        "id": "q-83",
+        "question": "A newborn boy born to a 48 year old woman is referred to your medical clinic. He has a flat face, wide eyes, epicanthal folds, white spots on the periphery of his irises , and a single palinar crease across ASD, a VSD and duodenal atresia. You suspect that his patient's karyotype will be remakedly abnormal . Your dianosis is ?",
+        "answer": "Down syndrome",
+        "choices": [
+            "Turner syndrome",
+            "Klinefelter syndrome",
+            "Edward Syndrome",
+            "Down syndrome"
+        ]
+    },
+    {
+        "id": "q-84",
+        "question": "Karyotype a male newborn with Down syndrome",
+        "answer": "47, +21, XY",
+        "choices": [
+            "45 XO",
+            "47 XXY",
+            "47, +18",
+            "47, +21, XY"
+        ]
+    },
+    {
+        "id": "q-85",
+        "question": "A 25 year old white man presents to your primary-care clinic for follow up after experiencing a detached retina the week vefore. His past medical history is significant for multiple shoulder dislocations as a teenager. On physical examination, the patient is very tall with long arms, legs and digits . He confesses that he is double joined and proudlu displays his flexibility. His father who passed away has had history  f retinal detachments himself. This patient is at risk of developing aortic dissection(cysticmedia necrosis). This is...",
+        "answer": "Mafian syndrome",
+        "choices": [
+            "Ehlers-Danlos syndrome",
+            "DiGeirge syndrome",
+            "down syndrome",
+            "Mafian syndrome"
+        ]
+    },
+    {
+        "id": "q-86",
+        "question": "Failure in the development of the 3rd and 4th pharungeal punches will result in primary immune disorder that is an example of a/an ____ disorder",
+        "answer": "Autosomal dominant",
+        "choices": [
+            "Autosomal recessive",
+            "x-linked diminant",
+            "x0linked recessive",
+            "Autosomal dominant"
+        ]
+    },
+    {
+        "id": "q-87",
+        "question": "A 42 year old man with GERD (gastroesophageal reflux disease) is at risk of developing ___________ of the esophagus.",
+        "answer": "Metaplasia",
+        "choices": [
+            "Atrophy",
+            "Hyperplasia",
+            "Hypertrophy",
+            "Metaplasia"
+        ]
+    },
+    {
+        "id": "q-88",
+        "question": "Barret esophagus could lead to _________",
+        "answer": "Both, Carcinoma of the esophagus and PUD, are correct",
+        "choices": [
+            "Carcinoma of the esophagus ",
+            "PUD",
+            "None of the other answers are correct",
+            "Both, Carcinoma of the esophagus and PUD, are correct"
+        ]
+    },
+    {
+        "id": "q-89",
+        "question": "A 5 year old boy is brought by his parents, who are concerned about skeletal deformities. Physical examination reveals a short pale boy with protrusion of the sternum , thinning of the occipital and parietal bones resulting in squared appeaande of the head and the rachitic rosary. His parents tell you that he is well nourished and has no prior medical problems. You advise that the boy begin taking vitamin supplements and get adequate exposure to sunlight. In the meantime. You schedule further tests to try and determine the etiology of this boy's condition. The boy is sufferring from _________.",
+        "answer": "Rickets",
+        "choices": [
+            "Osteoporosis",
+            "Scurvy",
+            "Arthritis",
+            "Rickets"
+        ]
+    },
+    {
+        "id": "q-90",
+        "question": "A 72 year old man presents to the ER difficuty  of breathing. He is fond of drinkiag and has a history of cocaine use. His past medical history revealed that he had two prior heart attacks. He has what is called a \"weak heart\". On physical examination his BP was 170/100 mmHg, with a heart rate of 110 beats per minute. Chest auscultation reavealed crackles all over his lung fields(fluid in the lungs). The patient's heart is suffering from chronic weakness of the heart muscle. Probable diagnosis?",
+        "answer": "Dilated cardiomyopathy",
+        "choices": [
+            "Hypertrophic cardiomyopathy",
+            "restrictive cardiomyopathy",
+            "Constrictive cardiomyopathy",
+            "Dilated cardiomyopathy"
+        ]
+    },
+    {
+        "id": "q-91",
+        "question": "A 59 year old man presents to your office with productive cough and dyspnea. He has smoked heavily for many yours and works in construction . A CT scan reveals intertitial fibrosis and calcified pleural plaques. You inform him that his condition has placed at great risk for both bronchogenic carcinoma and amalignant of pleura. Diagnosis?",
+        "answer": "Anthracosis",
+        "choices": [
+            "Tuberculosis",
+            "Pneumonia",
+            "Asbestosis",
+            "Anthracosis"
+        ]
+    },
+    {
+        "id": "q-92",
+        "question": "A biopsy of the stomach reveal an area of malignant change characterized as varied in sizes, compactly arranged neoplastic glands lined by deifentiated cells. Ehich of the following terms refer to malignant tumor of the glands?",
+        "answer": "Adeno carcinoma",
+        "choices": [
+            "Sarcoma",
+            "Choristoma",
+            "Teratoma",
+            "Adeno carcinoma"
+        ]
+    },
+    {
+        "id": "q-93",
+        "question": "which of the following statements in NOT true of red infarcts?",
+        "answer": "Seen in organs with well developed anastomosis",
+        "choices": [
+            "It occurs in organs with double blood supply ",
+            "commonly found in the heart and lungs",
+            "seen in venous occlusion with infarction",
+            "Seen in organs with well developed anastomosis"
+        ]
+    },
+    {
+        "id": "q-94",
+        "question": "a 25 year old man presents with shaking chills and profound weakness. On PE, his temperature is 40C and perechiae are noted in his selerae and gingiva. A murmur is heard in the regions of the tricuspid valve. The most likely diagnosis is __",
+        "answer": "Infective endocarditis",
+        "choices": [
+            "Acute Rheumatic fever",
+            "Acute periczrditis",
+            "acute Myocardial infarction",
+            "Infective endocarditis"
+        ]
+    },
+    {
+        "id": "q-95",
+        "question": "This type of hypersensitivity ractions is medicated by IgE",
+        "answer": "Type I",
+        "choices": [
+            "Type II",
+            "Type III",
+            "Type IV",
+            "Type I"
+        ]
+    },
+    {
+        "id": "q-96",
+        "question": "An example of tumor suppressor gene",
+        "answer": "p53",
+        "choices": [
+            "C-myc",
+            "RAS",
+            "BCR",
+            "p53"
+        ]
+    },
+    {
+        "id": "q-97",
+        "question": "Which type of inflammation is most charcteristic of acute rheumatic fever?",
+        "answer": "Pericarditis",
+        "choices": [
+            "Myocarditis",
+            "Pancarditis",
+            "Endocarditis",
+            "Pericarditis"
+        ]
+    },
+    {
+        "id": "q-98",
+        "question": "Tests like complete blood count and peripheral smear reading will be sent to ",
+        "answer": "Hematology section",
+        "choices": [
+            "Chemistry Section",
+            "Cyotology section",
+            "Microbiology section",
+            "Hematology section"
+        ]
+    },
+    {
+        "id": "q-99",
+        "question": "A patient came in with a fluctuant mass in his lover left gingiva area. You decided to perform a more conservative surgical procedure. If you want to just remove the fluid and the cells and not the entire mass from the patien, you will perform a _____",
+        "answer": "Fine needle aspiration biopsy(FNAB)",
+        "choices": [
+            "Incision biopsy",
+            "Excision biopsy",
+            "Autopsy",
+            "Fine needle aspiration biopsy(FNAB)"
+        ]
+    },
+    {
+        "id": "q-100",
+        "question": "Gram stains are performed in which section of clinical pathology?",
+        "answer": "Microbiology",
+        "choices": [
+            "Chemistry",
+            "Cytology",
+            "HErmatolpgy",
+            "Microbiology"
+        ]
+    },
+    {
+        "id": "q-101",
+        "question": "cercovaginal specimens, and fluids stained with Pap staics are sent to the......",
+        "answer": "Cytology section",
+        "choices": [
+            "Chemistry section",
+            "hematology section",
+            "Microscopy section",
+            "Cytology section"
+        ]
+    },
+    {
+        "id": "q-102",
+        "question": "Tests like PCR (polymerase chain reaction) and FISH (fluorecent in-situ hybrididization) are examples of tests that belong to______",
+        "answer": "Molecular pathology",
+        "choices": [
+            "Autopsy pathology",
+            "Forensic pathology",
+            "all of the other answers are correct",
+            "Molecular pathology"
+        ]
+    },
+    {
+        "id": "q-103",
+        "question": "Scrum electrolytes protein levels, ammonia and liver enzymes are measured or tested in the___",
+        "answer": "Serology section",
+        "choices": [
+            "Microbiology section",
+            "Microscopy section",
+            "chemistry section",
+            "Serology section"
+        ]
+    },
+    {
+        "id": "q-104",
+        "question": "To screen for infectious diseases such as hepatitis, blood samples will be sent to _____-",
+        "answer": "serology section",
+        "choices": [
+            "microbiology section",
+            "chemistry section",
+            "cytology section",
+            "serology section"
+        ]
+    },
+    {
+        "id": "q-105",
+        "question": "To confirm the presence of a particular organism like streptococcal infection of the throat, the sample will be sent to the___",
+        "answer": "Mkcrobiology section",
+        "choices": [
+            "serology section",
+            "chemistry section",
+            "hermatology section",
+            "Mkcrobiology section"
+        ]
+    },
+    {
+        "id": "q-106",
+        "question": "Autopsy belongs to ___",
+        "answer": "Clinical Pathology",
+        "choices": [
+            "anatomic pathology",
+            "molecular pathology",
+            "chemistry pathology",
+            "Clinical Pathology"
+        ]
+    },
+    {
+        "id": "q-107",
+        "question": "The following pairings are correct, EXCEPT",
+        "answer": "Bone - Osteocytes",
+        "choices": [
+            "CNS - microglia",
+            "Lungs - alvepolar macropages",
+            "Liver = Kupffer cells",
+            "Bone - Osteocytes"
+        ]
+    },
+    {
+        "id": "q-108",
+        "question": "The following are present in chronic granuomatous inflammation, EXCEPT",
+        "answer": "None",
+        "choices": [
+            "Multinucleatic giant cells",
+            "Epithelioid cells",
+            "a collar of lymphocytes",
+            "None"
+        ]
+    },
+    {
+        "id": "q-109",
+        "question": "The first three steps in the movement of neutrophils during inflammation are..",
+        "answer": "Margination rolling adhesion",
+        "choices": [
+            "Margination, adhesion, rolling",
+            "Nargination, rolling, diapedesis",
+            "Margination, adhesion, diapedes",
+            "Margination rolling adhesion"
+        ]
+    },
+    {
+        "id": "q-110",
+        "question": "This the movement of neutrophils towards the area of injury as they are attracted by chemical signals released by the injured tissue and the cause of injury",
+        "answer": "Chemotaxis",
+        "choices": [
+            "Diapedesis",
+            "Rolling",
+            "Margination",
+            "Chemotaxis"
+        ]
+    },
+    {
+        "id": "q-111",
+        "question": "The following can contribute to the development of an air embolus, EXCEPT",
+        "answer": "Hyperbaric chamber",
+        "choices": [
+            "Deep sea diving",
+            "IV fluid insertions",
+            "Intramuxcular injections",
+            "Hyperbaric chamber"
+        ]
+    },
+    {
+        "id": "q-112",
+        "question": "The following are correct regarding plasma cells, EXCEPT",
+        "answer": "They are activated T-Lymphocytes",
+        "choices": [
+            "They are produced during allergic reactions",
+            "both, they are activated T-lymphocytes and They are produced during allergic reaction are correct",
+            "NOne of the other answers are correct",
+            "They are activated T-Lymphocytes"
+        ]
+    },
+    {
+        "id": "q-113",
+        "question": "The following could happen if a stroke occurs , EXCEPT",
+        "answer": "None",
+        "choices": [
+            "Atrophy",
+            "Liquefactive necrosis",
+            "Deep vein thrombosis",
+            "None"
+        ]
+    },
+    {
+        "id": "q-114",
+        "question": "Clarence was born with familial hypercholesterolemia, Which is a genetic disorder that makes your blood cholesterol level always elevated. Which of the following is Clarence prone to developing due to this genetic disorder?",
+        "answer": "Liquefactive necrosis",
+        "choices": [
+            "coagulative necrosis",
+            "dystrophic calcification",
+            "all choices are correct",
+            "Liquefactive necrosis"
+        ]
+    },
+    {
+        "id": "q-115",
+        "question": "This is the most common primary cause of hemorrhagic disorders.",
+        "answer": "von Willebrand disease",
+        "choices": [
+            "Pont mutation in Factor V",
+            "Berger disease",
+            "Buerger disease",
+            "von Willebrand disease"
+        ]
+    },
+    {
+        "id": "q-116",
+        "question": "All-or-none phenomenon refers to",
+        "answer": "action potential",
+        "choices": [
+            "strength of muscle contraction",
+            "resting potential",
+            "excitatory postsynaptic potential",
+            "action potential"
+        ]
+    },
+    {
+        "id": "q-117",
+        "question": "Programmed cell death",
+        "answer": "apoptosis",
+        "choices": [
+            "necrobiosis",
+            "pyknosis",
+            "necrosis",
+            "apoptosis"
+        ]
+    },
+    {
+        "id": "q-118",
+        "question": "The following causes a decrease in ADH EXCEPT",
+        "answer": "nicotine",
+        "choices": [
+            "drinking large amounts of water",
+            "ethanol",
+            "caffeine",
+            "nicotine"
+        ]
+    },
+    {
+        "id": "q-119",
+        "question": "The respiratory tract is lined with?",
+        "answer": "Pseudostratified ciliated columnar epithelium",
+        "choices": [
+            "Simple squamous epithelium",
+            "Stratified cuboidal epithelium",
+            "Simple ciliated columnar epithelium",
+            "Pseudostratified ciliated columnar epithelium"
+        ]
+    },
+    {
+        "id": "q-120",
+        "question": "All of the following muscles elevates the mandible EXCEPT",
+        "answer": "mylohyoid",
+        "choices": [
+            "internal pterygoid muscle",
+            "masseter",
+            "temporalis",
+            "mylohyoid"
+        ]
+    },
+    {
+        "id": "q-121",
+        "question": "The common carotid artery may be palpated at",
+        "answer": "upper border of adam\u2019s apple",
+        "choices": [
+            "transverse process of C5",
+            "transverse process of C6",
+            "hyoid bone",
+            "upper border of adam\u2019s apple"
+        ]
+    },
+    {
+        "id": "q-122",
+        "question": "How many plane of movement can the mandible move in?",
+        "answer": "3",
+        "choices": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ]
+    },
+    {
+        "id": "q-123",
+        "question": "When scaling and root planing, you are using a firm finger rest for minutes at a time. Which of the following are receptors used when you are manipulating an instrument in your fingers?",
+        "answer": "pacinian corpuscles",
+        "choices": [
+            "meissner\u2019s corpuscles",
+            "ruffini\u2019s corpuscles",
+            "krause\u2019s corpuscle",
+            "pacinian corpuscles"
+        ]
+    },
+    {
+        "id": "q-124",
+        "question": "The nerve plexus of Raschkow is located in the",
+        "answer": "cell free layer",
+        "choices": [
+            "cell rich layer",
+            "central pulp core",
+            "odontoblast layer",
+            "cell free layer"
+        ]
+    },
+    {
+        "id": "q-125",
+        "question": "The following muscles adduct the thigh except",
+        "answer": "adductor policis",
+        "choices": [
+            "adductor brevis",
+            "adductor longus",
+            "gracilis",
+            "adductor policis"
+        ]
+    },
+    {
+        "id": "q-126",
+        "question": "Primary mandibular 2nd molar most closely resembles which permanent tooth?",
+        "answer": "mandibular 1st molar",
+        "choices": [
+            "mandibular 2nd molar",
+            "maxillary 1st molar",
+            "maxillary 2nd molar",
+            "mandibular 1st molar"
+        ]
+    },
+    {
+        "id": "q-127",
+        "question": "The end product of aerobic glycolysis is pyruvic acid. On the other hand, lactic acid is the by-product of anaerobic respiration.",
+        "answer": "Both statements are true",
+        "choices": [
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are true"
+        ]
+    },
+    {
+        "id": "q-128",
+        "question": "Sequence of DNA is T-A-G-T-A-T-C-A-T. What would be the complementary RNA sequence?",
+        "answer": "A-U-C-A-U-A-G-U-A",
+        "choices": [
+            "U-T-C-U-T-U-G-T-U",
+            "A-T-C-A-T-A-G-T-A",
+            "A-G-C-A-UA-G-T-U",
+            "A-U-C-A-U-A-G-U-A"
+        ]
+    },
+    {
+        "id": "q-129",
+        "question": "Most highly mineralized portion of dentin",
+        "answer": "intratubular",
+        "choices": [
+            "interglobular",
+            "intertubular",
+            "mantle",
+            "intratubular"
+        ]
+    },
+    {
+        "id": "q-130",
+        "question": "The main distinguishing feature of duodenum is the presence of Valves of Kerkcring. The main distinguishing feature of jejunum is the presence of glands in the mucosa known as Brunner\u2019s glands.",
+        "answer": "Both statements are false",
+        "choices": [
+            "Both statements are true",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are false"
+        ]
+    },
+    {
+        "id": "q-131",
+        "question": "Enzyme responsible for dissolving blood clots",
+        "answer": "plasmin",
+        "choices": [
+            "prothrombin",
+            "thrombin",
+            "fibrinogen",
+            "plasmin"
+        ]
+    },
+    {
+        "id": "q-132",
+        "question": "The parotid gland is derived from endoderm. The sublingual and submandibular are derived from ectoderm.",
+        "answer": "Both statements are false",
+        "choices": [
+            "Both statements are true",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are false"
+        ]
+    },
+    {
+        "id": "q-133",
+        "question": "Innervation of the tip of the nose",
+        "answer": "ophthalmic division",
+        "choices": [
+            "maxillary branch",
+            "mandibular nerve",
+            "IAN",
+            "ophthalmic division"
+        ]
+    },
+    {
+        "id": "q-134",
+        "question": "The cytoplasm of osteoblasts appears to be basophilic via normal H&E stain due to the presence of a large amounts of",
+        "answer": "RER",
+        "choices": [
+            "SER",
+            "mitochonDRIA",
+            "lysosomes",
+            "RER"
+        ]
+    },
+    {
+        "id": "q-135",
+        "question": "Which of the following anomalies can occur with a disturbance during the initiation and proliferation stages in tooth development?",
+        "answer": "number",
+        "choices": [
+            "size",
+            "shape",
+            "calcification",
+            "number"
+        ]
+    },
+    {
+        "id": "q-136",
+        "question": "DNA is composed of 4 bases linked to ribose and phosphate. It consists of 2 strands of nucleotides in the form of a double helix.",
+        "answer": "The first statement is false, second statement is true",
+        "choices": [
+            "Both statements are true",
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true"
+        ]
+    },
+    {
+        "id": "q-137",
+        "question": "Parasympathtic stimulation of the heart causes",
+        "answer": "decrease ventricular contraction",
+        "choices": [
+            "tachycardia",
+            "SA node decreases firing",
+            "Increase AV node excitability",
+            "decrease ventricular contraction"
+        ]
+    },
+    {
+        "id": "q-138",
+        "question": "Muscles which open the glottis are",
+        "answer": "posterior cricoarytenoid",
+        "choices": [
+            "thyroarytenoid",
+            "lateral cricoarytenoid",
+            "cricothyroid",
+            "posterior cricoarytenoid"
+        ]
+    },
+    {
+        "id": "q-139",
+        "question": "Which node would first show enlargement from an infection of mandibular incisor?",
+        "answer": "submental",
+        "choices": [
+            "parotid",
+            "submandibular",
+            "supramandibular",
+            "submental"
+        ]
+    },
+    {
+        "id": "q-140",
+        "question": "Eccrine glands secrete",
+        "answer": "sweat",
+        "choices": [
+            "sebum",
+            "melanin",
+            "hormones",
+            "sweat"
+        ]
+    },
+    {
+        "id": "q-141",
+        "question": "These calcified dental tissues contain cell or part of cells within it EXCEPT",
+        "answer": "enamel",
+        "choices": [
+            "cementum",
+            "dentin",
+            "bone",
+            "enamel"
+        ]
+    },
+    {
+        "id": "q-142",
+        "question": "Iron is quantitatively the most important trace element. Iron is absorbed mainly in the duodenum in the form of Fe3+.",
+        "answer": "The first statement is true, second statement is false",
+        "choices": [
+            "Both statements are true",
+            "Both statements are false",
+            "The first statement is false, second statement is true",
+            "The first statement is true, second statement is false"
+        ]
+    },
+    {
+        "id": "q-143",
+        "question": "Which is the most numerous immunoglobulin that is involved in immunity against pathogens as bacteria, fungi and viruses?",
+        "answer": "IgG",
+        "choices": [
+            "IgD",
+            "IgA",
+            "IgE",
+            "IgG"
+        ]
+    },
+    {
+        "id": "q-144",
+        "question": "As we age, fat is deposited in what layer of the heart?",
+        "answer": "epicardium",
+        "choices": [
+            "myocardium",
+            "endocardium",
+            "pericardium",
+            "epicardium"
+        ]
+    },
+    {
+        "id": "q-145",
+        "question": "Alveolar process is thinnest in",
+        "answer": "facial of mandibular central incisors",
+        "choices": [
+            "facial of maxillary 2nd molars",
+            "lingual of maxillary central incisors",
+            "lingual of maxillary canine",
+            "facial of mandibular central incisors"
+        ]
+    },
+    {
+        "id": "q-146",
+        "question": "In both sympathetic and parasympathetic nervous systems, all preganglionic neurons are _____",
+        "answer": "cholinergic",
+        "choices": [
+            "dopaminergic",
+            "serotogenic",
+            "adrenergic",
+            "cholinergic"
+        ]
+    },
+    {
+        "id": "q-147",
+        "question": "OS means",
+        "answer": "left eye",
+        "choices": [
+            "right eye",
+            "right ear",
+            "left ear",
+            "left eye"
+        ]
+    },
+    {
+        "id": "q-148",
+        "question": "Calcium that enters cell during smooth muscle excitation binds with which of the following?",
+        "answer": "calmodulin",
+        "choices": [
+            "troponin",
+            "inactive myosin kinase",
+            "myosin",
+            "calmodulin"
+        ]
+    },
+    {
+        "id": "q-149",
+        "question": "The component of bone tissue that gives bone tensile strength is the",
+        "answer": "collagenous fibrils of matrix",
+        "choices": [
+            "elastic fibers",
+            "calcified ground substance",
+            "interconnecting canaliculi",
+            "collagenous fibrils of matrix"
+        ]
+    },
+    {
+        "id": "q-150",
+        "question": "Which of the following is derived from the unsaturated fatty acids in cell membranes?",
+        "answer": "prostaglandins",
+        "choices": [
+            "histamine",
+            "serotonin",
+            "endorphins",
+            "prostaglandins"
+        ]
+    },
+    {
+        "id": "q-151",
+        "question": "Universal donor",
+        "answer": "O-",
+        "choices": [
+            "O+",
+            "AB+",
+            "AB-",
+            "O-"
+        ]
+    },
+    {
+        "id": "q-152",
+        "question": "The palatal mucosa of the maxillary anterior teeth is innervated by",
+        "answer": "nasopalatine nerve",
+        "choices": [
+            "anterior infraorbital nerve",
+            "ASAN",
+            "anterior palatine nerve",
+            "nasopalatine nerve"
+        ]
+    },
+    {
+        "id": "q-153",
+        "question": "Thin filaments in skeletal muscle are composed of",
+        "answer": "actin",
+        "choices": [
+            "troponin",
+            "myosin",
+            "tropomyosin",
+            "actin"
+        ]
+    },
+    {
+        "id": "q-154",
+        "question": "A disaccharide known as \u201cbeer sugar\u201d",
+        "answer": "maltose",
+        "choices": [
+            "sucrose",
+            "lactose",
+            "glucose",
+            "maltose"
+        ]
+    },
+    {
+        "id": "q-155",
+        "question": "Mesiolingual developmental groove is present in mandibular first premolar. Lingual developmental groove can be seen in mandibular first molars.",
+        "answer": "Both statements are true",
+        "choices": [
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are true"
+        ]
+    },
+    {
+        "id": "q-156",
+        "question": "Intercellular junction which doesn\u2019t allow passage of fluids between cells",
+        "answer": "zonula occludens",
+        "choices": [
+            "macula adherens",
+            "zona adherens",
+            "gap junction",
+            "zonula occludens"
+        ]
+    },
+    {
+        "id": "q-157",
+        "question": "Which of the following prevents cracking of enamel during mastication?",
+        "answer": "hunter-schreger",
+        "choices": [
+            "enamel spindle",
+            "enamel rods",
+            "mamelons",
+            "hunter-schreger"
+        ]
+    },
+    {
+        "id": "q-158",
+        "question": "Muscle of the back innervated by cranial nerve 11",
+        "answer": "trapezius",
+        "choices": [
+            "latissimus dorsi",
+            "rhomboid minor",
+            "rhomboid major",
+            "trapezius"
+        ]
+    },
+    {
+        "id": "q-159",
+        "question": "Sound generated by blood pressure cuff during blood pressure taking",
+        "answer": "korotkoff sound",
+        "choices": [
+            "heart sound",
+            "lubb",
+            "dubb",
+            "korotkoff sound"
+        ]
+    },
+    {
+        "id": "q-160",
+        "question": "Which lymphokines have anti-viral activity?",
+        "answer": "interferon",
+        "choices": [
+            "tumor necrosis factor",
+            "interleukin 2",
+            "interleukin 1",
+            "interferon"
+        ]
+    },
+    {
+        "id": "q-161",
+        "question": "TRUE about glucose EXCEPT",
+        "answer": "insulin inhibits a decrease in blood glucose",
+        "choices": [
+            "glucose is the major end product of carbohydrate ingestion",
+            "main fuel source of brain",
+            "liver releases glucose into the blood during muscular activity",
+            "insulin inhibits a decrease in blood glucose"
+        ]
+    },
+    {
+        "id": "q-162",
+        "question": "Pain that has no organic basis and that is fixed upon some portion of the anatomy is usually referred to as",
+        "answer": "phantom",
+        "choices": [
+            "FALSE",
+            "psychogenic",
+            "referred",
+            "phantom"
+        ]
+    },
+    {
+        "id": "q-163",
+        "question": "The portion of myofibril between 2 _____ constitutes sarcomere which is the functional unit of skeletal muscle.",
+        "answer": "Z-line",
+        "choices": [
+            "A band",
+            "I band",
+            "M line",
+            "Z-line"
+        ]
+    },
+    {
+        "id": "q-164",
+        "question": "Major intracellular cation",
+        "answer": "potassium",
+        "choices": [
+            "sodium",
+            "magnesium",
+            "chromium",
+            "potassium"
+        ]
+    },
+    {
+        "id": "q-165",
+        "question": "In which teeth will we most likely see a bifurcation in the apical third of the root?",
+        "answer": "maxillary first premolars",
+        "choices": [
+            "mandibular molars",
+            "maxillary second molars",
+            "maxillary first molars",
+            "maxillary first premolars"
+        ]
+    },
+    {
+        "id": "q-166",
+        "question": "The gold standard in determining clinical glomerular filtration rate is inulin clearance. Creatinine clearance is the most practically used measure of kidney function.",
+        "answer": "Both statements are true",
+        "choices": [
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are true"
+        ]
+    },
+    {
+        "id": "q-167",
+        "question": "Preganglionic parasympathetic fibers to the salivary glands stem travel via the branches of which cranial nerves?",
+        "answer": "7,9",
+        "choices": [
+            "5,7",
+            "9, 10",
+            "7, 11",
+            "7,9"
+        ]
+    },
+    {
+        "id": "q-168",
+        "question": "Which of the permanent incisors is most frequently markedly concave on the lingual surface?",
+        "answer": "maxillary lateral incisors",
+        "choices": [
+            "maxillary central incisors",
+            "mandibular lateral incisors",
+            "mandibular central incisors",
+            "maxillary lateral incisors"
+        ]
+    },
+    {
+        "id": "q-169",
+        "question": "In females, the effect of follicle stimulating hormone is",
+        "answer": "#N/A",
+        "choices": [
+            "#N/A",
+            "final maturation of ovarian follicle and the release of estrogen",
+            "early maturation of ovarian follicle and the release of estrogen",
+            "#N/A"
+        ]
+    },
+    {
+        "id": "q-170",
+        "question": "Primary crown mineralization (calcification) generally begins",
+        "answer": "in the third trimester",
+        "choices": [
+            "in the third and sixth week in utero",
+            "in the second trimester",
+            "at birth",
+            "in the third trimester"
+        ]
+    },
+    {
+        "id": "q-171",
+        "question": "The dentino-enamel junction is characterized as",
+        "answer": "rete pegs into dentin",
+        "choices": [
+            "straight line junction",
+            "spikes into the enamel",
+            "scalloped with convexity towards dentin",
+            "rete pegs into dentin"
+        ]
+    },
+    {
+        "id": "q-172",
+        "question": "From which of these arteries in the neck is the source of arterial blood supply to the oral cavity?",
+        "answer": "internal jugular",
+        "choices": [
+            "subclavian",
+            "internal carotid",
+            "external carotid",
+            "internal jugular"
+        ]
+    },
+    {
+        "id": "q-173",
+        "question": "The organelle involved in the oxidative process of a cell is",
+        "answer": "endoplasmic reticulum",
+        "choices": [
+            "golgi complex",
+            "mitochondria",
+            "nucleolus",
+            "endoplasmic reticulum"
+        ]
+    },
+    {
+        "id": "q-174",
+        "question": "If the nucleotide sequence of Stand A of DNA is TTT TTA CCC GAT CAA AAA GAA TCG CGT GCT, what is the nucleotide sequence of Strand B?",
+        "answer": "AAA AAT GGG CTA GTT TTT CTT AGC GCA CGA",
+        "choices": [
+            "AAA UUC CAC GCC CAA UUG CGG GAA GCA CGU",
+            "UUU UUA CCC CAU GUU AAU GAA GCC CAG GCA",
+            "TTT TTA CCC CAT CAA AAA GAA TCG CGT GGT",
+            "AAA AAT GGG CTA GTT TTT CTT AGC GCA CGA"
+        ]
+    },
+    {
+        "id": "q-175",
+        "question": "The hypoglossal nerve is the motor nerve to all of the muscles of the tongue EXCEPT",
+        "answer": "palatoglossus",
+        "choices": [
+            "superior longitudinal muscle",
+            "inferior longitudinal muscle",
+            "genioglossus",
+            "palatoglossus"
+        ]
+    },
+    {
+        "id": "q-176",
+        "question": "Rods and cones contain photopigments. The 4 photopigments consists of a protein where a chromophore molecule is attached. The protein is known as",
+        "answer": "opsin",
+        "choices": [
+            "iris",
+            "retinal",
+            "carotene",
+            "opsin"
+        ]
+    },
+    {
+        "id": "q-177",
+        "question": "Which of the following cranial nerves have parasympathetic activity?",
+        "answer": "3, 7, 9, 10",
+        "choices": [
+            "2, 3, 7, 9",
+            "2, 5, 9, 10",
+            "3, 5, 7, 9",
+            "3, 7, 9, 10"
+        ]
+    },
+    {
+        "id": "q-178",
+        "question": "Remnants of HERS is also known as Epithelial rests of Malassez. Periapical and radicular cyst derived their cyst from Rest of Malassez.",
+        "answer": "Both statements are true",
+        "choices": [
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are true"
+        ]
+    },
+    {
+        "id": "q-179",
+        "question": "Remnants of HERS is also known as Epithelial rests of Malassez. Periapical and radicular cyst derived their cyst from Rest of Malassez.",
+        "answer": "Both statements are true",
+        "choices": [
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are true"
+        ]
+    },
+    {
+        "id": "q-180",
+        "question": "The major regulatory protein in muscle tissues are",
+        "answer": "troponin, tropomyosin",
+        "choices": [
+            "actin, myosin",
+            "myosin, tropomyosin",
+            "actin, troponin",
+            "troponin, tropomyosin"
+        ]
+    },
+    {
+        "id": "q-181",
+        "question": "Organ with most permeable capillaries",
+        "answer": "liver",
+        "choices": [
+            "brain",
+            "kidney",
+            "heart",
+            "liver"
+        ]
+    },
+    {
+        "id": "q-182",
+        "question": "Remnants of HERS is also known as Epithelial rests of Malassez. Periapical and radicular cyst derived their cyst from Rest of Malassez.",
+        "answer": "Both statements are true",
+        "choices": [
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are true"
+        ]
+    },
+    {
+        "id": "q-183",
+        "question": "Lacrimation does not occur when the facial nerve injury is at",
+        "answer": "geniculate ganglion",
+        "choices": [
+            "semicircular canal",
+            "mastoid foramen",
+            "sphenopalatine ganglion",
+            "geniculate ganglion"
+        ]
+    },
+    {
+        "id": "q-184",
+        "question": "Enamel is a highly mineralized structure containing approximately 95% of organic materials. The largest mineral constituents are hydroxyapatite crystals.",
+        "answer": "The first statement is false, second statement is true",
+        "choices": [
+            "Both statements are true",
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true"
+        ]
+    },
+    {
+        "id": "q-185",
+        "question": "All of the following are TRUE about skeletal muscle EXCEPT",
+        "answer": "centrally-located nucleus",
+        "choices": [
+            "cylindrical in shape",
+            "multiple nucleus",
+            "presence of striations",
+            "centrally-located nucleus"
+        ]
+    },
+    {
+        "id": "q-186",
+        "question": "Brunner\u2019s gland can be found, mainly, in the",
+        "answer": "duodenum",
+        "choices": [
+            "jejunum",
+            "ileum",
+            "cecum",
+            "duodenum"
+        ]
+    },
+    {
+        "id": "q-187",
+        "question": "The usual order of eruption of primary teeth",
+        "answer": "central incisors, lateral incisors, first molars, canines, second molars",
+        "choices": [
+            "central incisors, lateral incisors, canines, first molars, , second molars",
+            "first molars, central incisors, lateral incisors, canines, second molars",
+            "first molars, second molars, central incisors, lateral incisors, canines",
+            "central incisors, lateral incisors, first molars, canines, second molars"
+        ]
+    },
+    {
+        "id": "q-188",
+        "question": "Gluconeogenesis",
+        "answer": "creation of glucose",
+        "choices": [
+            "creation of glycogen",
+            "destruction of glycogen",
+            "destruction of glucose",
+            "creation of glucose"
+        ]
+    },
+    {
+        "id": "q-189",
+        "question": "By puncturing an artery, you have hit the vessel with the greatest",
+        "answer": "pressure",
+        "choices": [
+            "resistance",
+            "cross-sectional area",
+            "blood volume",
+            "pressure"
+        ]
+    },
+    {
+        "id": "q-190",
+        "question": "Closure of the aortic valve occurs before the following event",
+        "answer": "isovolumetric contraction",
+        "choices": [
+            "presystole",
+            "prediastole",
+            "isovolumetric relaxation",
+            "isovolumetric contraction"
+        ]
+    },
+    {
+        "id": "q-191",
+        "question": "In basic life support, the most common way of opening the airway is by",
+        "answer": "head-tilt chin-lift method",
+        "choices": [
+            "tracheal tube placement",
+            "pulling out of the patient\u2019s tongue",
+            "jaw thrust method",
+            "head-tilt chin-lift method"
+        ]
+    },
+    {
+        "id": "q-192",
+        "question": "When the foot is abducted, it moves _____",
+        "answer": "outward",
+        "choices": [
+            "inward",
+            "superior",
+            "inferior",
+            "outward"
+        ]
+    },
+    {
+        "id": "q-193",
+        "question": "Which vein drains the posterior abdominal and thoracic body wall?",
+        "answer": "azygos vein",
+        "choices": [
+            "internal jugular vein",
+            "external jugular vein",
+            "femoral vein",
+            "azygos vein"
+        ]
+    },
+    {
+        "id": "q-194",
+        "question": "Enamel hypocalcificaion is a general term referring to qualitative defects of enamel. Enamel hypoplasia is a general term referring to quantitative defects of enamel thickness.",
+        "answer": "Both statements are true",
+        "choices": [
+            "Both statements are false",
+            "The first statement is true, second statement is false",
+            "The first statement is false, second statement is true",
+            "Both statements are true"
+        ]
+    },
+    {
+        "id": "q-195",
+        "question": "Cholinergic receptors in the target cells of the parasympathetic nervous system are",
+        "answer": "muscarinic and nicotinic",
+        "choices": [
+            "alpha and beta",
+            "nicotinic and isotonic",
+            "muscarinic and hypertonic",
+            "muscarinic and nicotinic"
+        ]
+    },
+    {
+        "id": "q-196",
+        "question": "The irregularly shaped calcified structures commonly found in the pulp is called",
+        "answer": "denticles",
+        "choices": [
+            "cementicles",
+            "enamel pearls",
+            "sclerotic dentin",
+            "denticles"
+        ]
+    }
+]

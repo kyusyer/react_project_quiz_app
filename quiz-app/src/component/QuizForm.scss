@@ -1,0 +1,179 @@
+$borderRadiusSmall: 8px;
+$bgColorBase: rgba(211, 205, 205, 0.866);
+
+
+* {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+
+form {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid gray;
+    width: 600px;
+    border-radius: $borderRadiusSmall;
+    background-color: $bgColorBase;
+
+    .question-number {
+        height: 40px;
+        border-bottom: 2px solid gray;
+        width: 100%;
+        padding: 5px;
+        font-size: 24px;
+        line-height: 24px;
+        color: white;
+
+        font-weight: bold;
+        background-color: green;
+
+        border-radius: $borderRadiusSmall;
+    }
+
+    .score {
+        width: 90%;
+        padding-left: 8px;
+        padding-right: 8px;
+        text-align: left;
+        color: blue;
+        font-weight: 500;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .question-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding: 10px;
+        background-color: white;
+        border: 2px solid gray;
+        background-color: $bgColorBase;
+
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        line-height: 16px;
+        border-radius: $borderRadiusSmall;
+
+        .question {
+            width: 96%;
+            text-align: start;
+            text-align: justify;
+            background-color: white;
+            padding: 8px 8px;
+            border-radius: $borderRadiusSmall;
+        }
+
+
+
+    }
+
+    .choices-container {
+        border: 2px solid gray;
+        width: 100%;
+        border-radius: $borderRadiusSmall;
+        padding-top: 16px;
+        padding-bottom: 10px;
+
+        .choices {
+            width: 100%;
+            padding-top: 4px;
+            padding-bottom: 4px;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            align-items: center;
+            border-radius: $borderRadiusSmall;
+
+            .choice-card {
+                width: 90%;
+                // border: 1px solid gray;
+                // border-radius: $borderRadiusSmall;
+                background-color: white;
+                text-align: start;
+
+
+                label {
+                    display: flex;
+                    flex-direction: row;
+                    width: 100%;
+                    height: 100%;
+                    align-items: center;
+                    background-color: $bgColorBase;
+                    gap: 4px;
+
+
+                    input[type="radio"] {
+                        width: 20px;
+                        height: 100%;
+                    }
+
+                    .choice-text {
+                        height: 100%;
+                        width: calc(100% - 50px);
+                        padding: 8px;
+                        background-color: white;
+                        border-radius: $borderRadiusSmall;
+
+                    }
+                }
+
+                /* background-color: gray; */
+
+
+            }
+        }
+
+
+
+
+    }
+
+    .next {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+#selected {
+    background-color: yellow;
+}
+
+#correct {
+    background-color: green;
+
+}
+
+#wrong {
+    background-color: red;
+}
+
+input[type="submit"] {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(90, 203, 128);
+    border-radius: $borderRadiusSmall;
+    border: 2px solid gray;
+    overflow: hidden;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    form {
+        width: 300px;
+    }
+}
