@@ -15,7 +15,7 @@ export default function QuizForm() {
     });
 
     useEffect(
-        () => pickQuestion, []
+        () => pickQuestion(), []
     )
 
     function handleNext(event) {
