@@ -1,21 +1,24 @@
 import "./QuizForm.css";
 import jsonData from "../resource/data.json";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 
 
 
 export default function QuizForm() {
 
+    const idRef = useRef("");
+    const [questionPool, setQuestionPool] = useState(jsonData);
     const [item, setItem] = useState(1);
     const [score, setScore] = useState(0);
     const [question, setQuestion] = useState({
+        id: "",
         question: "",
         answer: "",
         choices: []
     });
 
     useEffect(
-        () => pickQuestion(), []
+        () => pickQuestion, []
     )
 
     function handleNext(event) {
@@ -48,15 +51,17 @@ export default function QuizForm() {
         document.querySelectorAll("label").forEach(el => {
 
 
-            let choiceElement = el.querySelector(".choice-text")
+            let choiceElement = el.querySelector(".choice-text");
 
             if (el.querySelector("input").checked) {
                 answer = choiceElement.textContent;
-                setScore(score+1);
+
                 // console.log(answer);
                 // console.log(question.answer);
                 if (answer === question.answer) {
                     choiceElement.id = "correct";
+                    removeQuestionPool(idRef.current.textContent);
+                    setScore(score + 1);
                 }
                 else {
                     choiceElement.id = "wrong";
@@ -66,6 +71,7 @@ export default function QuizForm() {
                 el.querySelector(".choice-text").id = "";
                 if (choiceElement.textContent === question.answer) {
                     choiceElement.id = "correct";
+
 
                 }
 
@@ -107,39 +113,64 @@ export default function QuizForm() {
         })
     }
 
+    function removeQuestionPool(idx) {
+
+        const newList = questionPool.filter((item) => item.id !== idx);
+
+        setQuestionPool(newList)
+
+    }
+
 
     function pickQuestion() {
 
-        let arrLength = jsonData.length;
-        let randomIdx = Math.floor(Math.random() * (arrLength + 1));
+        let arrLength = questionPool.length;
+        let randomIdx = Math.floor(Math.random() * (arrLength));
 
-        setQuestion(
-            jsonData[randomIdx]
+        setQuestion(() => {
+
+            let randomQuestion = questionPool[randomIdx];
+            let choices = randomQuestion.choices;
+            let randomIdxChoice = Math.floor(Math.random() * 4);
+            let temp = choices[randomIdxChoice];
+            choices[randomIdxChoice] = choices[3];
+            choices[3] = temp;
+
+            return (
+                { ...randomQuestion, choices: choices }
+            )
+
+
+
+        }
+
         );
 
     }
 
-    function handleReset(){
+    function handleReset() {
         setScore(0);
         setItem(1);
         pickQuestion();
+
     }
 
 
 
 
 
-    return (
+    return (!questionPool.length ? <div><h1>No more questions</h1><button onClick={handleReset}>reset</button></div> :
 
         <form action="" >
             <div className="question-number">Question Number {item}</div>
-            <div className="score">SCORE: {score} 
-            
-            <button className="reset" onClick={handleReset}>RESET</button>
+            <div className="score">SCORE: {score}/{item - 1}
+
+                <button className="reset" onClick={handleReset}>RESET</button>
             </div>
             <div className="question-container">
                 <div className="question">
                     <p>{question.question}</p>
+                    <span style={{ display: "none" }} ref={idRef}>{question.id}</span>
 
                 </div>
 
@@ -158,6 +189,7 @@ export default function QuizForm() {
                                             {value}
 
                                         </div>
+
 
 
                                     </label>
